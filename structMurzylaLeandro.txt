@@ -1,0 +1,13 @@
+
+    struct integrador4
+    {
+        int menu = 0;
+        int i = 0;
+        int codBarra[100];
+        int descripcion[100];
+        int cantidadStock[100];
+        int busqueda;
+        int finBusqueda;
+        int nuevoStock;
+        
+    };
